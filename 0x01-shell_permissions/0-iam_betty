@@ -1,3 +1,2 @@
 #!/bin/bash
-so 7Betty
-su Betty
+su  betty 
